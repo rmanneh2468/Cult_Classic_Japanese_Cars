@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Cult-Classic Japanese Cars</title>
+        <title>Cult-Classic Japanese Cars: Sports Cars</title>
         <link rel = "stylesheet" href = "style.css">
     </head>
 
