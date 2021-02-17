@@ -20,7 +20,7 @@
         
         <br></br>
         <ol>
-            <li> <a href = "home.php"> Sports Cars </a></li>
+            <li> <a href = "SportsCar.php"> Sports Cars </a></li>
             <li> <a href = "home.php"> GT Cars </a></li>
             <li> <a href = "home.php"> Luxury Cars </a></li>
         </ol>
