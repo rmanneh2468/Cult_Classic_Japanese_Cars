@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cult-Classic Japanese Cars</title>
+        <link rel = "stylesheet" href = "style.css">
+    </head>
+
+    <body>
+        <h1>GT Cars</h1>
+
+
+        <br></br>
+
+        <p>A GT Car is a type of Sports Car, that is designed for high-speed, and long-distance 
+          driving. GT Cars are usually longer, heavier, have a longer wheelbase than sports cars,
+          Front-Engine, Rear-Wheel Drive, 2-seat or 2+2 arrangement. 
+        </p>
+        
+        <br></br>
+      <!--  <ol>
+            <li> <a href = "home.php"> Sports Cars </a></li>
+            <li> <a href = "home.php"> GT Cars </a></li>
+            <li> <a href = "home.php"> Luxury Cars </a></li>
+        </ol> -->
+        <br></br>
+
+
+
+    </body>
+</html>
