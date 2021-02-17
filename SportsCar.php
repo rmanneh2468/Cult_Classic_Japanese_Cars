@@ -6,15 +6,13 @@
     </head>
 
     <body>
-        <h1>Sportcar</h1>
+        <h1>Sports Cars</h1>
 
-        <br></br>
-        
-        <h2>Cult-Classic Japanese Cars</h2>
 
         <br></br>
 
-        <p>Welcome to Sportcar page 
+        <p>There are many exciting, fast, and nimble sports cars, that were created by Japanese
+            carmakers, during the 80's and 90's.  
         </p>
         
         <br></br>
@@ -25,10 +23,7 @@
         </ol> -->
         <br></br>
 
-        <p> 
-            Please click on one of the three main sections above, to discover more, 
-            about these classic, special cars.
-        </p>
+
 
     </body>
 </html>
