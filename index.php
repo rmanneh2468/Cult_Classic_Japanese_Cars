@@ -20,15 +20,15 @@
         
         <br></br>
         <ol>
-            <li> <a href = "SportsCars.php"> Sports Cars </a></li>
+            <li> <a href = "Sports_Cars.php"> Sports Cars </a></li>
             <li> <a href = "GT_Cars.php"> GT Cars </a></li>
-            <li> <a href = "home.php"> Luxury Cars </a></li>
+            <li> <a href = "Luxury_Cars.php"> Luxury Cars </a></li>
         </ol>
         <br></br>
 
         <p> 
-            Please click on one of the three main sections above, to discover more, 
-            about these classic, special cars.
+            Please click on one of the three main sections above, to discover more, about these
+            special cars.
         </p>
 
     </body>
