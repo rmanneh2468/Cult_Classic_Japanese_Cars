@@ -3,6 +3,7 @@
     <head>
         <title>Cult-Classic Japanese Cars</title>
         <link rel = "stylesheet" href = "index_style.css">
+        <link rel= "shortcut icon" type= "image/jpg" href= "C:\Users\rmann\Documents\Libraries_Documents\Education\Boise State University [ BSU ]\Computer Science\CS 401\Cult-Classic-Japanese-Cars\Cult_Classic_Japanese_Cars\Images\Favicon_1.jpg" >
     </head>
 
     <body>
@@ -39,6 +40,7 @@
         <ul>
             <br></br>
             <li> Contact us at:  rmanneh@gmail.com</li>
+            <br></br>
         </ul>
 
     </body>
