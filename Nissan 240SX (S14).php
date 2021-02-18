@@ -8,7 +8,7 @@
     <body>
         <h1>1995-1998 Nissan 240sx (S14)</h1>
 
-        <img src = https://www.nydailynews.com/resizer/HzGbovJ7FeEYRkTVJn3WANh4XIg=/800x531/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QUFM7L7IJ3HMVE3RH6XK752POI.jpg width: "10%"" />
+        <img src = https://www.nydailynews.com/resizer/HzGbovJ7FeEYRkTVJn3WANh4XIg=/800x531/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/QUFM7L7IJ3HMVE3RH6XK752POI.jpg width: "10%" />
 
         <br></br>
 
