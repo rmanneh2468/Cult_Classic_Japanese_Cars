@@ -17,7 +17,7 @@
         
         <br></br>
         <ol>
-            <li> <a href = "Nissan 240SX (S14).php"> S </a></li>
+            <li> <a href = "Nissan 240SX (S14).php"> 1995-1998 Nissan 240SX (S14)</a></li>
         </ol> 
         <br></br>
 
