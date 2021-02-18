@@ -8,6 +8,9 @@
     <body>
         <h1>Sports Cars</h1>
 
+        <br></br>
+
+        <img src = https://www.dmarge.com/wp-content/uploads/2015/05/mt-haruna.jpg />
 
         <br></br>
 
@@ -18,6 +21,7 @@
         <br></br>
         <ol>
             <li> <a href = "Nissan 240SX (S14).php"> 1995-1998 Nissan 240SX (S14)</a></li>
+            <li> 1991-1995 Toyota MR2 (SW20) </li>
         </ol> 
         <br></br>
 
