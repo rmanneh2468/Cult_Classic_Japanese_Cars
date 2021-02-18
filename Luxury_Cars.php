@@ -17,14 +17,15 @@
         </p>
         
         <br></br>
-      <!--  <ol>
-            <li> <a href = "home.php"> Sports Cars </a></li>
-            <li> <a href = "home.php"> GT Cars </a></li>
-            <li> <a href = "home.php"> Luxury Cars </a></li>
-        </ol> -->
+        <ol>
+            <li> 1990-1994 Lexus LS400 (UCF10)</li>
+            <li> 1990-1995 Acura Legend (KA7/KA8) </li>
+            <li> 1993-1997 Infiniti J30 (Y32) </li>
+            <li> 1993-1997 Lexus GS300 (S140) </li>
+        </ol> 
         <br></br>
 
-        <a href = "index.php"> Home </a>
+        <p><a href = "index.php"> Home </a></p>
 
 
     </body>
