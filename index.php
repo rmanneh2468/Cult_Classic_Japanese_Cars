@@ -33,5 +33,7 @@
             special cars.
         </p>
 
+        <hr></hr>
+
     </body>
 </html>
