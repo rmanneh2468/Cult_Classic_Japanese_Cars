@@ -12,11 +12,19 @@ h2{
 
 p{
     text-align: center;
+    font-size: 16pt
 }
 
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 95%;
+    
+}
+
+ol li{
+    list-style: none;
+    text-align: center;
+    font-size: 14pt;
+    line-height: 1.5em;
 }
