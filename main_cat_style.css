@@ -22,7 +22,8 @@ img {
     width: 50%;
 }
 
-ol li{
+ol li {
+    list-style: none;
     text-align: center;
     font-size: 14pt;
     line-height: 2em;
