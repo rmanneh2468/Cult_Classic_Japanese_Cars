@@ -25,7 +25,7 @@
         </ol> 
         <br></br>
 
-        <a href = "index.php"> Home </a>
+        <p><a href = "index.php"> Home </a></p>
 
 
 
