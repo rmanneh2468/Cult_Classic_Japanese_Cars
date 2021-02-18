@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Cult-Classic Japanese Cars</title>
-        <link rel = "stylesheet" href = "style.css">
+        <link rel = "stylesheet" href = "index_style.css">
     </head>
 
     <body>
