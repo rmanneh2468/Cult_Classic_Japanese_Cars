@@ -24,8 +24,9 @@
         <br></br>
         <br></br>
 
-        <p><a href = "Sports_Cars.php"> Return to the Sports Cars page </a></p>
-        <p><a href = "index.php"> Return Home </a></p>
+        <ol>
+        <li><a href = "Sports_Cars.php"> Return to the Sports Cars page </a></li>
+        <li><a href = "index.php"> Return Home </a></li>
 
 
 
