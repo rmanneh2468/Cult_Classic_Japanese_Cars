@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Cult-Classic Japanese Cars: Luxury Cars</title>
-        <link rel = "stylesheet" href = "style.css">
+        <link rel = "stylesheet" href = "main_cat_style.css">
     </head>
 
     <body>
