@@ -9,6 +9,8 @@
         <h1>Home</h1>
 
         <br></br>
+
+        <img src = https://bringatrailer.com/wp-content/uploads/2012/10/1587398086ff9f98764da15873980865ef66e7dff9f98764d1994_Toyota_Supra_Twin_Turbo_For_Sale_Front_resize-0zJ5kS.jpg?w=620 />
         
         <h2>Cult-Classic Japanese Cars</h2>
 
