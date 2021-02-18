@@ -14,7 +14,6 @@
         
         <br></br>
         <h2>Cult-Classic Japanese Cars</h2>
-
         <br></br>
 
         <p>Welcome! This website is dedicated to cult-classic, Japanese cars,
