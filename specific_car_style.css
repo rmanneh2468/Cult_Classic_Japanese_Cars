@@ -21,3 +21,10 @@ img {
     margin-right: auto;
     width: 50%;
 }
+
+ol li{
+    list-style: none;
+    text-align: center;
+    font-size: 14pt;
+    line-height: 2em;
+}
