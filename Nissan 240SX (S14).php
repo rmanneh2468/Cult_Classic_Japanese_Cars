@@ -29,8 +29,8 @@
         </ol> -->
         <br></br>
 
-        <a href = "Sports_Cars.php"> Return to the Sports Cars page </a>
-        <a href = "index.php"> Return Home </a>
+        <p><a href = "Sports_Cars.php"> Return to the Sports Cars page </a></p>
+        <p><a href = "index.php"> Return Home </a></p>
 
 
 
