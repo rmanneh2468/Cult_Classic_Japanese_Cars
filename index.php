@@ -3,9 +3,9 @@
     <head>
         <title>Cult-Classic Japanese Cars</title>
         <link rel = "stylesheet" href = "index_style.css">
-        <link rel="icon" href="favicon_1.ico" type="Images/favicon_1" />
-        <link rel="shortcut icon" href="favicon_1.ico" type="Images/favicon_1" />
-        <link href = "Images/favicon_1.jpg" type = "image/jpg" rel = "shortcut icon" />  <!-- I was trying to make a favicon here, but it did not work. Have to fix this later. -->
+        <link rel="shortcut icon" href= "/favicon_1.ico" type= "Images/x-icon">
+        <link rel="icon" href= "/favicon_1.ico" type= "Images/x-icon">
+
     </head>
 
     <body>
