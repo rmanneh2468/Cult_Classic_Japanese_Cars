@@ -3,7 +3,7 @@
     <head>
         <title>Cult-Classic Japanese Cars</title>
         <link rel = "stylesheet" href = "index_style.css">
-        <link href = "favicon-32.png" type = "image/png" rel = "shortcut icon" />
+        <link rel = "icon" href ="Images/Favicon_1.jpg" type ="image/jpg" />  <!-- I was trying to make a favicon here, but it did not work. Have to fix this later. -->
 
 
     </head>
