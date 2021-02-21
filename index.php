@@ -3,8 +3,8 @@
     <head>
         <title>Cult-Classic Japanese Cars</title>
         <link rel = "stylesheet" href = "index_style.css">
-        <link rel="shortcut icon" href= "/favicon_1.ico" type= "Images/x-icon">
-        <link rel="icon" href= "/favicon_1.ico" type= "Images/x-icon">
+        <link rel="icon" href="favicon_1.ico" type="image/x-icon" />
+        <link rel="shortcut icon" href="favicon_1.ico" type="image/x-icon" />
 
     </head>
 
