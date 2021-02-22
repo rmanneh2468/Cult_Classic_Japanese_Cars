@@ -11,7 +11,8 @@ h2{
 }
 
 p{
-    text-align: left;
+    text-align: justify;
+    text-indent: 2em;
 }
 
 img {
