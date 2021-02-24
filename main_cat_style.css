@@ -29,13 +29,13 @@ ol li {
     line-height: 2em;
 }
 
-#GTDescrip{
+.gt{
     text-align: left
     margin-left: 30px
     margin-right: 30px
 }
 
-#LuxuryDescrip{
+.luxury{
     text-align: left
     margin-left: 30px
     margin-right: 30px

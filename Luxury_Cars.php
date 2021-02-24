@@ -11,7 +11,7 @@
 
         <br></br>
 
-        <p id = "LuxuryDescrip">During this era, Japanese automakers, created many classic, robust yet luxurious 
+        <p class = "luxury" >During this era, Japanese automakers, created many classic, robust yet luxurious 
             cars. Many of these cars are noted for their excellent build quality, very high 
             reliability, and good looks. </p>
 
