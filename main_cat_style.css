@@ -31,10 +31,12 @@ ol li {
 
 #GT_descrip{
     text-align: left
-    margin: 5px 30px
+    margin-left: 30px
+    margin-right: 30px
 }
 
 #Luxury_descrip{
     text-align: left
-    margin: 5px 30px
+    margin-left: 30px
+    margin-right: 30px
 }
