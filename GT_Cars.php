@@ -11,7 +11,7 @@
 
         <br></br>
 
-        <p> id = "GT_descrip">A GT Car is a type of Sports Car, that is designed for high-speed, and long-distance 
+        <p id = "GT_descrip">A GT Car is a type of Sports Car, that is designed for high-speed, and long-distance 
           driving. GT Cars are usually longer, heavier, have a longer wheelbase than sports cars,
           Front-Engine, Rear-Wheel Drive, 2-seat or 2+2 arrangement. 
         </p>
