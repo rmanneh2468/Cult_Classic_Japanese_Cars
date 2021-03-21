@@ -3,8 +3,9 @@ body{
 }
 
 .logo_ccjc{
-    float: left;
-    padding: 10px,10px,10px,10px;   
+    position: fixed;
+    top: 0;
+    left: 0;  
 }
 
 h1{
