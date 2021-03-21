@@ -6,6 +6,8 @@ body{
     position: absolute;
     top: 10px;
     left: 10px;  
+    height: 15%;
+    width: 15%;
 }
 
 h1{
