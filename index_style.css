@@ -2,12 +2,11 @@ body{
     background-color: #f1efef;
 }
 
-#logo_ccjc{
+.logo_ccjc{
     position: absolute;
     top: 10px;
     left: 10px;  
-    width: 250px;
-    height: 161px;
+
 }
 
 h1{
