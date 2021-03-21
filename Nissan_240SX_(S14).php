@@ -3,7 +3,7 @@
     <head>
         <title>Cult-Classic Japanese Cars: Sports Cars</title>
         <link rel = "stylesheet" href = "style.css">
-        <div class = "logo_ccjc">
+        <div class = "logo_240sx">
             <img src = "Images/Logo_alter_1.jpg" alt = "Site Logo" width = "250px" height = "161px">
         </div>
     </head>

@@ -2,7 +2,21 @@ body{
     background-color: #f1efef;
 }
 
-.logo_ccjc{
+.logo_gt{
+    position: absolute;
+    top: 10px;
+    left: 10px;  
+
+}
+
+.logo_sport{
+    position: absolute;
+    top: 10px;
+    left: 10px;  
+
+}
+
+.logo_lux{
     position: absolute;
     top: 10px;
     left: 10px;  
