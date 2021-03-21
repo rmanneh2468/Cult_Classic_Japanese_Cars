@@ -4,8 +4,9 @@
         <title>Cult-Classic Japanese Cars</title>
         <link rel = "stylesheet" href = "index_style.css">
         <link rel = "icon" href ="Images/car-64-215428.png" type ="image/png" />  <!-- This line is for the favicon. It took me a while for it to work, and I want to improve the clarity, will work on it later. -->
-        <div class = "logo ccjc">
-            <img src = "Images/Logo_2.jpg">
+        <div class = "logo_ccjc">
+            <img src = "Images/Logo_4.jpg">
+        </div>
 
     </head>
 
