@@ -9,7 +9,7 @@
     <body>
 
     <div class = "logo_gt">
-            <a><img src = "Images/Logo_alter_1.jpg" alt = "Site Logo"></a>
+            <a><img src = "Images/Logo_alter_1.jpg" alt = "Site Logo" width = "250px" height = "161px"></a>
         </div>
 
         <br></br>
