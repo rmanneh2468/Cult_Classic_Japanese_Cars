@@ -3,12 +3,15 @@
     <head>
         <title>Cult-Classic Japanese Cars: Sports Cars</title>
         <link rel = "stylesheet" href = "style.css">
-        <div class = "logo_240sx">
-            <img src = "Images/Logo_alter_1.jpg" alt = "Site Logo" width = "250px" height = "161px">
-        </div>
+       
     </head>
 
     <body>
+
+    <div class = "logo_240sx">
+            <img src = "Images/Logo_alter_1.jpg" alt = "Site Logo" width = "250px" height = "161px">
+        </div>
+        
         <h1>1995-1998 Nissan 240sx (S14)</h1>
 
 

@@ -3,12 +3,14 @@
     <head>
         <title>Cult-Classic Japanese Cars: Luxury Cars</title>
         <link rel = "stylesheet" href = "main_cat_style.css">
-        <div class = "logo_lux">
-            <img src = "Images/Logo_alter_1.jpg" alt = "Site Logo" width = "250px" height = "161px">
-        </div>
+     
     </head>
 
     <body>
+    <div class = "logo_lux">
+            <img src = "Images/Logo_alter_1.jpg" alt = "Site Logo" width = "250px" height = "161px">
+        </div>
+        
         <h1>Luxury Cars</h1>
 
 

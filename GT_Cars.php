@@ -3,12 +3,14 @@
     <head>
         <title>Cult-Classic Japanese Cars: GT Cars</title>
         <link rel = "stylesheet" href = "main_cat_style.css">
-        <div class = "logo_gt">
-            <a><img src = "Images/Logo_alter_1.jpg" alt = "Site Logo"></a>
-        </div>
+       
     </head>
 
     <body>
+
+    <div class = "logo_gt">
+            <a><img src = "Images/Logo_alter_1.jpg" alt = "Site Logo"></a>
+        </div>
 
         <br></br>
 
