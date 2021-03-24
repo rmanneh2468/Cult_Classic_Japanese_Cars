@@ -29,6 +29,15 @@ img {
     margin-right: auto;
 }
 
+#Twofortysx_img{
+    img {
+        list-style: none;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+}
+
 ol li{
     list-style: none;
     text-align: center;
