@@ -51,6 +51,13 @@ img {
     width: 50%; 
 }
 
+#cat_gt_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
+}
+
 ol li {
     list-style: none;
     text-align: center;
