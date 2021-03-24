@@ -22,7 +22,8 @@ h2{
 p{
     text-align: center;
     font-size: 16pt;
-    padding: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 img {
