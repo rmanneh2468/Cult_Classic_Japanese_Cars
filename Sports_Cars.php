@@ -16,7 +16,7 @@
 
         <br></br>
 
-        <img src = https://www.dmarge.com/wp-content/uploads/2015/05/mt-haruna.jpg />
+        <img src = https://www.dmarge.com/wp-content/uploads/2015/05/mt-haruna.jpg  id = "cat_sports_img" />
 
         <br></br>
 

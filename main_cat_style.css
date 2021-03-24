@@ -44,6 +44,13 @@ img {
     margin-right: auto;
 }
 
+#cat_sports_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%; 
+}
+
 ol li {
     list-style: none;
     text-align: center;
