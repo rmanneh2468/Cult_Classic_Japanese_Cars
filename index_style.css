@@ -21,7 +21,8 @@ h2{
 
 p{
     text-align: center;
-    font-size: 16pt
+    font-size: 16pt;
+    padding: 20px;
 }
 
 img {
