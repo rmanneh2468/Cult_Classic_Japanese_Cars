@@ -15,7 +15,7 @@
         <h1>GT Cars</h1>
 
         <br></br>
-        <img src = "https://bringatrailer.com/wp-content/uploads/2019/11/1992_toyota_supra_1577930510e7dff9f98764da1992_toyota_supra_15779305096e7dff9f98764da67668c0f-bb9c-48d2-9c55-0a52db41e609-OQtCjq.jpg?fit=2048%2C1366" id = "cat_gt_img" />
+        <img src = "https://bringatrailer.com/wp-content/uploads/2018/10/1992_toyota_supra_15416199372a7ce40810bf52a-3.jpg?fit=1988%2C1365" id = "cat_gt_img" />
 
 
         <br></br>
