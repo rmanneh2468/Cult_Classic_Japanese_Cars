@@ -18,6 +18,12 @@ h2{
     text-align: center;
 }
 
+p{
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
 #Twoforty_descrip{
     text-align: left;
     padding-left: 30px;
