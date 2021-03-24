@@ -7,10 +7,10 @@
     </head>
 
     <body>
-    <div class = "logo_lux">
+    <div class = "logo_lux" >
             <img src = "Images/Logo_alter_1.jpg" alt = "Site Logo" width = "250px" height = "161px">
         </div>
-        
+
         <h1>Luxury Cars</h1>
 
 

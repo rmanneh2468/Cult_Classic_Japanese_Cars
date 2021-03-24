@@ -13,6 +13,7 @@
     <div id = "logo_ccjc">
             <img src = "Images/Logo_alter_1.jpg" alt = "Site Logo" width = "250px" height = "161px">
         </div>
+        
         <h1>Home</h1>
 
         <br></br>
