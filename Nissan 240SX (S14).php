@@ -8,7 +8,7 @@
     <body>
 
     
-    <div class = "logo_240sx">
+        <div class = "logo_240sx">
             <img src = "Images/Logo_alter_1.jpg" alt = "Site Logo" width = "250px" height = "161px">
         </div>
         
