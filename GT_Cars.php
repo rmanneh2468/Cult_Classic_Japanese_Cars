@@ -12,8 +12,6 @@
             <img src = "Images/Logo_alter_1.jpg" alt = "Site Logo" width = "250px" height = "161px">
         </div>
 
-        <br></br>
-
         <h1>GT Cars</h1>
 
 
