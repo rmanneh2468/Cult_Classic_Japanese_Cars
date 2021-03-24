@@ -23,7 +23,7 @@
         
     <div id = "Twoforty_descrip">
         <p>Description:</p>
-        <br></br>
+        
         <p>The Nissan 240sx was an agile, lightweight, Rear-Wheel Drive sports car. The car was
         available, with a 5-speed manual transmission. Due to all of these factors, it gained
         a large following of spirited fans, in the racing, autocross, and drifting communities.
