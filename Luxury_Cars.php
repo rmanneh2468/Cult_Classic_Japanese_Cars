@@ -14,7 +14,7 @@
         <h1>Luxury Cars</h1>
 
         <br></br>
-        <img src = "https://bringatrailer.com/wp-content/uploads/2019/07/1992_lexus_ls_156501919805662a678520190713_193711.jpg?fit=1709%2C1146" id = "cat_lux_img" />
+        <img src = "https://journal.classiccars.com/media/2020/01/19154393-1990-lexus-ls400-std-1068x711.jpg" id = "cat_lux_img" />
 
         <br></br>
 
