@@ -30,7 +30,7 @@
         previous Supra, (the A70, Mark 3 Supra, which ran from 1986-1992, in North America). The smooth, 
         rounded lines of the Mk4, have a very "90's look", yet still look appealing today. The Mk3 and
         the Mk4 Toyota Supra, have very different designs, which adds to the polarizing fanbase, that both
-        models have. The Mark 4 Supra is a legendary GT car, it generates very high prices, on the 
+        models have. The Mark 4 Supra is an iconic and legendary GT car, that generates very high prices, on the 
         used car market. Some people are surprised by the high prices, that these cars sell for. Yet
         there are few cars, that can match it's combination of speed, handling, looks, driving 
         experience, and great reliability.   
