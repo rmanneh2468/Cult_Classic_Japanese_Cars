@@ -26,11 +26,11 @@ p{
     padding-right: 30px;
 }
 
-img {
+#home_img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 65%;
     
 }
 
