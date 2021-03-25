@@ -8,7 +8,7 @@
     <body>
 
     
-    <div class = "logo_supra_mk4">
+    <div class = "logo_mk4_supra">
             <img src = "Images/Logo_alter_1.jpg" alt = "Site Logo" width = "250px" height = "161px">
     </div>
         
