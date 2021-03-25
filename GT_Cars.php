@@ -28,7 +28,7 @@
         
         <br></br>
         <ol>
-            <li> <a href = "Toyota Supra (A80).php"> 1993-1998 Toyota Supra (A80))</a></li>
+            <li> <a href = "Toyota Supra (A80).php"> 1993-1998 Toyota Supra (A80)</a></li>
             <li> 1986-1992 Toyota Supra (A80) </li>
             <li> 1999-2002 Nissan Skyline GT-R (R34) </li>
         </ol>
