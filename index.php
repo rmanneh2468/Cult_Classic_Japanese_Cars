@@ -18,7 +18,7 @@
 
         <br></br>
 
-        <img src = "https://bringatrailer.com/wp-content/uploads/2012/10/1587398086ff9f98764da15873980865ef66e7dff9f98764d1994_Toyota_Supra_Twin_Turbo_For_Sale_Front_resize-0zJ5kS.jpg?w=620" id = "home_img" />
+        <img src = "https://www.cnet.com/a/img/Zg4gC7agZTC5Hr9t8zveMcIQo28=/980x0/2017/11/15/d8d46570-2867-4e56-9981-e9a95467d822/1997-toyota-supra-turbo-3.jpg" id = "home_img" />
         
         <br></br>
         <h2>Cult-Classic Japanese Cars</h2>
