@@ -24,16 +24,7 @@
     <div id = "Lex_LS400_descrip">
         <p>Description:</p>
         
-        <p>The A80 Toyota Supra, (aka "Mark 4" Supra), was a truly special car. It was a well-built, 
-        fast, and good-handling machine. The Turbo version of the Mark 4 Supra, was lighter, had more 
-        torque, more horsepower, better suspension, and a more sophisticated engine, (the 2JZ-GTE), than the 
-        previous Supra, (the A70, Mark 3 Supra, which ran from 1986-1992, in North America). The smooth, 
-        rounded lines of the Mk4, have a very "90's look", yet still look appealing today. The Mk3 and
-        the Mk4 Toyota Supra, have very different designs, which adds to the polarizing fanbase, that both
-        models have. The Mark 4 Supra is an iconic and legendary GT car, that generates very high prices, on the 
-        used car market. Some people are surprised by the high prices, that these cars sell for. Yet
-        there are few cars, that can match it's combination of speed, handling, looks, driving 
-        experience, and great reliability.   
+        <p>The 1st generation, Lexus LS400, was a car  
         </p>
     </div>
         
