@@ -15,6 +15,12 @@ body{
     left: 10px;  
 }
 
+.logo_lex_ls400{
+    position: absolute;
+    top: 10px;
+    left: 10px;    
+}
+
 h1{
     text-align: center;
     margin-top: 16%;
@@ -46,6 +52,14 @@ p{
     padding-bottom: 5px;
 }
 
+#Lex_LS400_descrip{
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;    
+}
+
 img {
     list-style: none;
     display: block;
@@ -67,6 +81,14 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 70%;
+}
+
+#Lex_LS400_img{
+    list-style: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;    
 }
 
 ol li{
