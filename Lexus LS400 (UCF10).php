@@ -34,7 +34,7 @@
         $1 Billion US dollars. Toyota also created a new marque, called "Lexus", to symbolize their 
         launch of this project, into the competitive, luxury car market. 
         <br></br>
-        The LS400 had an all-new, V8 engine, the 1UZ-Fe. This engine is legendary
+        The LS400 had an all-new, V8 engine, called the 1UZ-FE. This engine is legendary
         for its smoothness, refined power, and excellent reliability. In fact, the engine is so impressive,
         that it was one of the first car engines, approved by the FAA, for use in aircraft. The car also 
         came equipped with a very robust, and long-lasting automatic transmission. The chassis had an 
