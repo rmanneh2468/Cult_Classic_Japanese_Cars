@@ -29,8 +29,8 @@
         project. The F1 project, did not have a time scale for completion, nor did it have budget 
         constraints. 
         <br></br>
-        As a result, the car was completely new, as it did not use parts from the existing Toyota 
-        part bin. Furthermore, the final cost of development, for this ambitious luxury car, was over
+        As a result, the car was completely new. It did not use parts from the existing Toyota 
+        parts bin. Furthermore, the final cost of development, for this ambitious luxury car, was over
         $1 Billion US dollars. The car launched under a new name, "Lexus", which was created by Toyota,
         to convey the launch of this sedan. 
         <br></br>
