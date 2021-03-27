@@ -46,7 +46,7 @@
         as they pass 300,000 miles, on original enine and transmission, very often. The 1st gen Lexus
         LS400, generated a shockwave in the automotive industry, in the early 90's. Companies like
         BMW and Mercedes, were severely impacted, by the sucess of this iconic car. In fact, it took
-        several years, for BMW and Mercedes, to recover from the shockwave, of the 1st gen Lexus LS400.    
+        several years, for BMW and Mercedes, to recover from impact, of the 1st gen Lexus LS400.    
         </p>
     </div>
         
