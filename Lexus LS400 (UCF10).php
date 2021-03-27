@@ -40,7 +40,7 @@
         came equipped with a very robust, and long-lasting automatic transmission. The chassis had an 
         independent, double-wishbone suspension, or optional air suspension system. 
         <br></br>
-        The 1st gen LS400, had quieter cabin, than virtually all of the luxury car competitors.
+        The 1st gen LS400, had a quieter cabin, than virtually all of the luxury car competitors.
         Furthermore, Toyota set the price at $35,000 USD, undercutting the competition. 
         The build quality of the 1st gen LS400 is exceptional. The reliability is also impressive, 
         as they pass 300,000 miles, on original enine and transmission, very often. The 1st gen Lexus
