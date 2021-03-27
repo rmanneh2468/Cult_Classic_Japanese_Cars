@@ -32,7 +32,7 @@
         As a result, the car was completely new. It did not use parts from the existing Toyota 
         parts bin. Furthermore, the final cost of development, for this ambitious luxury car, was over
         $1 Billion US dollars. Toyota also created a new marque, called "Lexus", to symbolize their 
-        launch of this project, into the competitive, luxury car market. 
+        lofty aspirations, with the launch of this project, into the competitive, luxury car market. 
         <br></br>
         The LS400 had an all-new, V8 engine, called the 1UZ-FE. This engine is legendary
         for its smoothness, refined power, and excellent reliability. In fact, the engine is so impressive,
