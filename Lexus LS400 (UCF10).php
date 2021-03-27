@@ -41,8 +41,8 @@
         independent, double-wishbone suspension, or optional air suspension system. 
         <br></br>
         The 1st gen LS400, had quieter cabin, than virtually all of the luxury car competitors.
-        Furthermore, Toyota set the price at $35,000 USD, undercutting the competition in the luxury 
-        market. The build quality of these cars is so impressive, and their reliability is very good. 
+        Furthermore, Toyota set the price at $35,000 USD, undercutting the competition. 
+        The build quality of these cars is so impressive, and their reliability is very good. 
         They pass 300,000 miles, on original enine and transmission, very often. The 1st gen Lexus
         LS400, generated a shockwave in the automotive industry, in the early 90's. Companies like
         BMW and Mercedes, were severely impacted, by the sucess of this iconic car. In fact, it took
