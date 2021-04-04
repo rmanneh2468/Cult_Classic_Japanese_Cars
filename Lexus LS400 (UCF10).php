@@ -24,10 +24,11 @@
     <div id = "Lex_LS400_descrip">
         <p>Description:</p>
         
-        <p>The 1st generation, Lexus LS400, was a car that took nearly a decade to make. The project 
-        started in 1983, by Eiji Toyoda. It was called the F1 "Flagship No. 1 vehicle", or "Circle F"
-        project. The F1 project, did not have a time scale for completion, nor did it have budget 
-        constraints. 
+        <p>The 1st generation, Lexus LS400, was a car that took nearly a decade to make.
+        It is proof of the excellence that occurs, when one takes time, plans well, uses ingenuity, 
+        and attention to detail. The project started in 1983, by Eiji Toyoda. It was called the F1 
+        "Flagship No. 1 vehicle", or "Circle F" project. The F1 project, did not have a time scale 
+        for completion, nor did it have budget constraints. 
         <br></br>
         As a result, the car was completely new. It did not use parts from the existing Toyota 
         parts bin. Furthermore, the final cost of development, for this ambitious luxury car, was over
